@@ -1,4 +1,4 @@
-# Enterprise Retail Analytics Platform
+#  Enterprise Retail Analytics Platform
 
 ##  Project Overview
 
@@ -10,8 +10,8 @@ This repository contains a robust, end-to-end Data Engineering and Analytics pla
 
 Here is how the live executive dashboard looks with interactive charts and real-time business KPIs:
 
-![Dashboard Metrics](Screenshot 2026-06-27 141139.png)
-![Dashboard Data Table](Screenshot 2026-06-27 141247.png)
+![Dashboard Metrics](Screenshot%202026-06-27%20141139.png)
+![Dashboard Data Table](Screenshot%202026-06-27%20141247.png)
 
 ---
 
