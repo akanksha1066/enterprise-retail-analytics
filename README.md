@@ -1,6 +1,8 @@
-#  Enterprise Retail Analytics Platform
+# Enterprise Retail Analytics Platform
 
-A robust, end-to-end Data Engineering and Analytics platform that simulates enterprise retail transactions, processes data through an optimized ETL pipeline using Pandas, and visualizes executive insights via an interactive Streamlit dashboard.
+##  Project Overview
+
+This repository contains a robust, end-to-end Data Engineering and Analytics platform that simulates enterprise retail transactions, processes data through an optimized ETL pipeline using Pandas, and visualizes executive insights via an interactive Streamlit dashboard.
 
 ---
 
