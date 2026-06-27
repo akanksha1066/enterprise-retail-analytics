@@ -1,4 +1,4 @@
-# Enterprise Retail Analytics Platform
+ #  Enterprise Retail Analytics Platform
 
 A robust, end-to-end Data Engineering and Analytics platform that simulates enterprise retail transactions, processes data through an optimized ETL pipeline using Pandas, and visualizes executive insights via an interactive Streamlit dashboard.
 
@@ -15,7 +15,7 @@ A robust, end-to-end Data Engineering and Analytics platform that simulates ente
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **Data Processing:** Pandas, NumPy
