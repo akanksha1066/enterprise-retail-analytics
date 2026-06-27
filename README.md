@@ -1,6 +1,15 @@
- #  Enterprise Retail Analytics Platform
+#  Enterprise Retail Analytics Platform
 
 A robust, end-to-end Data Engineering and Analytics platform that simulates enterprise retail transactions, processes data through an optimized ETL pipeline using Pandas, and visualizes executive insights via an interactive Streamlit dashboard.
+
+---
+
+##  Dashboard Preview
+
+Here is how the live executive dashboard looks with interactive charts and real-time business KPIs:
+
+![Dashboard Metrics](Screenshot 2026-06-27 141139.png)
+![Dashboard Data Table](Screenshot 2026-06-27 141247.png)
 
 ---
 
@@ -12,32 +21,10 @@ A robust, end-to-end Data Engineering and Analytics platform that simulates ente
   * **Transformation:** Handles missing values, enforces proper schema datatypes, creates advanced computed metrics (e.g., Total Revenue), and performs high-performance aggregations.
   * **Loading:** Stores processed analytical datasets cleanly into specialized target directories.
 * **Executive Dashboard (`src/app.py`):** Built using **Streamlit** and **Plotly** to serve interactive charts, dynamic Key Performance Indicators (KPIs), and detailed data previews for corporate stakeholders.
+
+---
+
 ##  Tech Stack
-
-* **Language:** Python
-* **Data Processing:** Pandas, NumPy
-* **Visualization & Frontend:** Streamlit, Plotly Express
-* **Environment Management:** Python virtual environments (`requirements.txt`)
-
----
-
-## Project Structure
-
-```text
-enterprise-retail-analytics/
-│
-├── data/
-│   ├── raw/                # Ingested raw datasets (transactions.csv)
-│   └── processed/          # Aggregated results (category/city summaries)
-│
-├── src/
-│   ├── etl_pipeline.py     # Backend Data Transformation logic
-│   └── app.py              # Streamlit Dashboard application
-│
-└── requirements.txt        # System dependencies
----
-
-## Tech Stack
 
 * **Language:** Python
 * **Data Processing:** Pandas, NumPy
