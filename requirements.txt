@@ -1,0 +1,5 @@
+pyspark==3.5.0
+pandas==2.1.1
+streamlit==1.27.0
+plotly==5.17.0
+faker==19.6.1
